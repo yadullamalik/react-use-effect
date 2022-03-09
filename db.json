@@ -1,0 +1,54 @@
+{
+  "groceries": [
+    {
+      "title": "potato",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "tomato",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "onion",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "maggie",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "biryani",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "fish",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "shugar",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "rice",
+      "purchased": false,
+      "id": 8
+    },
+    {
+      "title": "kashew",
+      "purchased": false,
+      "id": 9
+    },
+    {
+      "title": "pasta",
+      "purchased": false,
+      "id": 10
+    }
+  ]
+}
